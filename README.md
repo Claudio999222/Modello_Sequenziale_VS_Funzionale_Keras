@@ -1,0 +1,1 @@
+## In questo notebook creiamo un modello di reti sequenziali e funzionali con keras e ne vediamo le differenze
